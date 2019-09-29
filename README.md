@@ -1,0 +1,2 @@
+# Scribe
+For Angular projects
